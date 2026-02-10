@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+     font-family: arial, sans-serif;
+}
+body{
+    background-image: url(https://www.admissionwala.in/storage/productimages/WhatsApp-Image-2025-01-24-at-1.17.34-PM.jpeg);
+    background-size: cover;
+    background-color: #adc9ff;
+}
+header img{
+   height: 55px;
+   width: 200px;
+}
+header{
+    padding: 30px;
+    font-family: arial, sans-serif;
+    font-size: 16px;
+}
+header h1{
+    font-size: 20px;
+}
+main h2 .signin{
+    margin-bottom: 20px;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.container{
+    max-width: 350px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: hsl(219, 85%, 29%);
+    opacity: 80%;
+    border-radius: 30px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+.username{
+    font-weight: 600;
+    color: white;
+    text-align: left;
+    display: block;
+    margin-bottom: 5px;
+    margin-top: 20px;
+}
+input{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+.password{
+     font-weight: 600;
+    color: white;
+    text-align: left;
+    display: block;
+    margin-bottom: 5px;
+}
+.submit{
+   
+    background-color: #fe8e01;
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 600;
+    
+}
+a{
+    color: white;
+    text-align: right;
+}
+footer {
+    height: 40px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    border-top: 2px solid #031864;
+    background-color: #e3ecfe;
+    color: black;
+    padding: 2px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.footer-logo img{
+    max-width: 50px;
+    margin-left: 471px;
+    margin-top: 21px;
+}
+p{
+    margin-bottom: 20px;
+}
+.footer-logo2 img{
+    max-width: 50px;
+    margin-left: -50px;
+    margin-top: 21px;
+}
+.product p{
+    margin-left: 450px;
+    margin-top: 21px;
+}
